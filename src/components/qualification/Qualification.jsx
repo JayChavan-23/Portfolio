@@ -4,7 +4,7 @@ import './qualification.css'
 
 const qualification = () => {
   return (
-    <div>qualification</div>
+    <section>qualification</section>
   )
 }
 

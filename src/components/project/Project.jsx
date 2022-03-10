@@ -4,7 +4,7 @@ import './project.css'
 
 const Project = () => {
   return (
-    <div>Project</div>
+    <section>Project</section>
   )
 }
 
