@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assests/me-about1.jpg'
+import ME from '../../assests/about.png'
 import {AiOutlineFileDone} from 'react-icons/ai'
 import {BsPencil} from 'react-icons/bs'
 import {FaAward} from 'react-icons/fa'
