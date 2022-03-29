@@ -25,19 +25,19 @@ const About = () => {
                 <article className='about__card'>
                   <AiOutlineFileDone className='about__icon'/>
                   <h5>Projects</h5>
-                  <small>5+ Completed projects</small>
+                  <small>5+ Completed </small>
                 </article>
 
                 <article className='about__card'>
                   <BsPencil className='about__icon'/>
                   <h5>Blogs</h5>
-                  <small>6+ Blogs written</small>
+                  <small>6+ Blogswritten</small>
                 </article>
 
                 <article className='about__card'>
                   <FaAward className='about__icon'/>
                   <h5>Certificates</h5>
-                  <small>10+ Certificates earned</small>
+                  <small>10+<br/> Certificates </small>
                 </article>
                 </div>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates nostrum perferendis
