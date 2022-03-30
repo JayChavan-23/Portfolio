@@ -5,7 +5,7 @@ import {FaGraduationCap} from 'react-icons/fa'
 
 
 const qualification = () => (
-  <section className='qualification section'>
+  <section id='qualification' className='qualification section above'>
                 <h2 className="section__title"><FaGraduationCap className= 'qualification__icon'/>Qualification</h2>
                 <h5 className="section__subtitle">My personal journey</h5>
 
