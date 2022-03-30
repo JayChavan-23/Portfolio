@@ -39,10 +39,12 @@ body{
 }
 
 /* ============== GENEARL STYLES============ */
-
+.above{
+    margin-top: 5rem;
+}
 .container {
     width: var(--container-width-lg);
-    margin: 0 auto;
+    margin: auto auto;
 }
 h1,
 h2,
@@ -72,7 +74,7 @@ section > h2{
 
 a{
     color: var(--color-primary);
-    transition: var(--trasnsition);
+    transition: var(--transition);
 }
 a:hover{
         color: var(--color-white);

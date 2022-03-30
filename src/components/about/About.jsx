@@ -8,7 +8,7 @@ import {FaAward} from 'react-icons/fa'
 
 const About = () => {
   return (
-    <section id='about'>
+    <section className='above' id='about'>
       <h5>Get to know</h5>
       <h2>About Me</h2>
 
