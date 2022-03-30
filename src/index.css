@@ -39,9 +39,7 @@ body{
 }
 
 /* ============== GENEARL STYLES============ */
-.above{
-    margin-top: 5rem;
-}
+
 .container {
     width: var(--container-width-lg);
     margin: auto auto;
@@ -57,7 +55,9 @@ h1{
     font-size: 2.5rem;
 }
 
-
+.above{
+    margin-top: 8rem;
+}
 
 section > h2, section > h5{
     text-align: center;
